@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/help">
+        <file>help/bilinear_help1.PNG</file>
+        <file>help/bilinear_help2.PNG</file>
+        <file>help/bilinear_help3.PNG</file>
+        <file>help/bilinear_help4.PNG</file>
+        <file>help/bilinear_output1.PNG</file>
+        <file>help/bilinear_output2.PNG</file>
+        <file>help/bilinear_output3.PNG</file>
+        <file>help/linear_help1.PNG</file>
+        <file>help/linear_help2.PNG</file>
+        <file>help/linear_help3.PNG</file>
+        <file>help/linear_help4.PNG</file>
+    </qresource>
+</RCC>

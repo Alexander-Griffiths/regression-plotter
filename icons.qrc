@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/add_data.png</file>
+        <file>img/file.png</file>
+        <file>img/graph.png</file>
+        <file>img/options.png</file>
+        <file>img/pen.png</file>
+        <file>img/question_mark.png</file>
+        <file>img/scattericon.png</file>
+        <file>img/start.png</file>
+        <file>img/thickness.png</file>
+    </qresource>
+</RCC>
