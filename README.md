@@ -1,5 +1,5 @@
 # RegressionPlotter
-This program is used to create a linear or bilinear regression graph based on a datasheet (.csv)
+This program is used to create a linear or bilinear regression graph based on a datasheet (.csv). It was a final project for a C++ module at the University of Liverpool achieving a first class grade of 87% (TOC).
 
 Currently the program is still in an alpha state and doesn't contain the full functionalities intended for the program, however the current functionality includes generating linear or bilinear regression graphs. Additional functionality to customise the aesthetics of the graphs are included. See the help section in app for instructions on how to use.
 
